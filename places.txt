@@ -1,0 +1,10 @@
+la biblioteca:library
+la escuela:school
+el restaurante:restaurant
+el cine:movie theater
+el aeropuerto:airport
+el museo:museum
+el parque:park
+la universidad:university
+la oficina:office
+la casa:house
